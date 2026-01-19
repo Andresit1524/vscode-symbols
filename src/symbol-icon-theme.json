@@ -284,6 +284,7 @@
 		"pdf": { "iconPath": "./icons/files/pdf.svg" },
 		"perl": { "iconPath": "./icons/files/perl.svg" },
 		"php": { "iconPath": "./icons/files/php.svg" },
+		"pixieditor": { "iconPath": "./icons/files/pixieditor.svg" },
 		"pkl": { "iconPath": "./icons/files/pkl.svg" },
 		"pnpm": { "iconPath": "./icons/files/pnpm.svg" },
 		"postcss": { "iconPath": "./icons/files/postcss.svg" },
@@ -746,7 +747,8 @@
 		"toml": "gear",
 		"v": "v",
 		"nix": "nix",
-		"fc": "func"
+		"fc": "func",
+		"pixi": "pixieditor"
 	},
 
 	"fileNames": {

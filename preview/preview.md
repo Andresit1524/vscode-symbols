@@ -248,6 +248,7 @@ You can choose which icons to use from the [Library](https://www.figma.com/file/
 | pdf                   | ![pdf](files/pdf.png)                                       |
 | perl                  | ![perl](files/perl.png)                                     |
 | php                   | ![php](files/php.png)                                       |
+| pixieditor            | ![pixieditor](files/pixieditor.png)                         |
 | pkl                   | ![pkl](files/pkl.png)                                       |
 | pnpm                  | ![pnpm](files/pnpm.png)                                     |
 | postcss               | ![postcss](files/postcss.png)                               |
